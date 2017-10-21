@@ -1,4 +1,4 @@
-这是一个简单的 todos 应用，主要使用 [Create React App](https://github.com/facebookincubator/create-react-app) 创建，样式主要使用 [TodoMVC](http://todomvc.com/)。
+这是一个简单的 todos 应用，主要使用 [Create React App](https://github.com/facebookincubator/create-react-app) 创建，样式主要使用 [TodoMVC](http://todomvc.com/)。
 
 ## 运行说明
 
@@ -13,7 +13,7 @@ npm i & npm start
 
 运行 app 并自动在默认浏览器中打开[http://localhost:3000](http://localhost:3000)。
 
-当你更改内容并保存之后页面会自动重载刷新。
+当你更改内容并保存之后页面会自动重载刷新。
 
 ### `npm test`
 
