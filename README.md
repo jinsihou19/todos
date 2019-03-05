@@ -1,5 +1,7 @@
 这是一个简单的 todos 应用，主要使用 [Create React App](https://github.com/facebookincubator/create-react-app) 创建，样式主要使用 [TodoMVC](http://todomvc.com/)。
 
+![](./images/demo.jpg)
+
 ## 运行说明
 
 运行 app
